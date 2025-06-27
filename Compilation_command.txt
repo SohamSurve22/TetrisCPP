@@ -1,0 +1,1 @@
+g++ main.cpp Game.cpp Board.cpp IO.cpp Pieces.cpp -I/ucrt64/include/SDL -L/ucrt64/lib -lSDL -lSDL_gfx -o tetris
