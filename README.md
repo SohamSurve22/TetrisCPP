@@ -61,11 +61,11 @@ Compile and run:
 
 CONTROLS
 --------
-Arrow Keys  = Move left/right/down
-Up Arrow    = Rotate piece
-Space Bar   = Hard drop (if implemented)
-'Z' Key     = Block Rotation
-Esc         = Exit game
+- Arrow Keys  = Move left/right/down
+- Up Arrow    = Rotate piece
+- Space Bar   = Hard drop (if implemented)
+- 'Z' Key     = Block Rotation
+- Esc         = Exit game
 
 TO-DO / FUTURE IMPROVEMENTS
 ----------------------------
