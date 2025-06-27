@@ -1,7 +1,7 @@
 
                             TetrisCPP
               Classic Tetris Game in Modern C++ (SDL2)
-
+-------------------------------------------------------------------
 
 DESCRIPTION
 -----------
