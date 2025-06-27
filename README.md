@@ -1,7 +1,7 @@
 
-                            TetrisCPP
-              Classic Tetris Game in Modern C++ (SDL2)
--------------------------------------------------------------------
+TETRISCPP
+---------
+A Classic Tetris Game Reimagined in Modern C++ with SDL2
 
 DESCRIPTION
 -----------
